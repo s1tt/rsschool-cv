@@ -7,7 +7,7 @@
 - **Location:** Minsk, Belarus
 - **Phone:** +7(920) 771-*8-*0
 - **Email:** nec13@mail.ru
-- ## **GitHub:** [s1tt](https://github.com/s1tt 'Описание')
+- **GitHub:** [s1tt](https://github.com/s1tt 'Описание')
 
 ---
 
@@ -40,12 +40,17 @@ alert( result );
 
 ---
 
-Experience
+## Experience
 
 ---
 
-Education
+## Education
+
+- Tula State University
+- Yandex Praktikum
 
 ---
 
-English
+## English
+
+**A2**
